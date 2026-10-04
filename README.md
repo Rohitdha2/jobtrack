@@ -196,6 +196,5 @@ The core authentication, job management, REST API, PostgreSQL integration, and d
 
 Rohit Dhakad
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourusername
+GitHub: [https://github.com/](https://github.com/Rohitdha2)
+LinkedIn: [https://linkedin.com/in/yourusername](https://www.linkedin.com/in/rohit-dhakad-sirt-college/)
